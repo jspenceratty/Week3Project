@@ -59,6 +59,8 @@
         nameLengths.push(numberOfLetters.length);
     }
 
+    console.log('#5: ' + nameLengths);
+
 //6
     //write loop to calculate sum of elements in nameLengths; print result to console
     var totalNameLength = 0;
